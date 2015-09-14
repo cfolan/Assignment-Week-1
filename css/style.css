@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  border-top: 5px solid #222222;
+  border-bottom: 5px solid #222222;
+  padding: 50px 50px 50px 50px;
+  background-color: #F6F6F6;
+  max-width: 700px;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+    font-family: serif;
+    font-size: 18px;
+    line-height: 1.4;
+  text-align: left;
+}
+
+ul {
+    line-height: 1.4;
+    text-align: left;
+}
+
+.avatar {
+  border: 1px solid #222222;
+  padding: 5px;
+  float: center;
+  background-color: white;
+  margin: 20px auto 0 auto;
+}
+
+.bullets {
+  font-style: italic;
+  font-weight: bold;
+}
+
+/** I want to put some spce between the image and the bullet point text but cant figure out how! **/
